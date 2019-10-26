@@ -1,0 +1,2 @@
+# hi-RabbitMQ
+RabbitMQ demo
